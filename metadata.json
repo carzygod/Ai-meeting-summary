@@ -1,0 +1,7 @@
+{
+  "name": "CorpMaster AI - Enterprise Training & Knowledge",
+  "description": "A comprehensive enterprise solution for meeting archiving, customer CRM intelligence, and AI-driven employee training simulations using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
